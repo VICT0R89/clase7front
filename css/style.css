@@ -1,0 +1,187 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #ffffff;
+}
+header {
+    position: absolute;
+    width: 1440px;
+    height: 248.19px;
+    left: 0px;
+    top: 0px;
+    background-color: #e6e6e6;
+}
+header div {
+background-image: url(../img/logo\ batman.png);
+position: absolute;
+width: 100px;
+height: 146.37px;
+left: 670px;
+top: 20.91px;
+}
+#rectangulo{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background: #c4c4c4;
+}
+header h1 {
+    position: absolute;
+    width: 1440px;
+    height: 29.87px;
+    left: 213px;
+    top: 180.19px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    letter-spacing: 9.5px;
+    color: #005677;
+}
+#uno {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 392px;
+    background: #c4c4c4;
+}
+#datos {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 382px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    letter-spacing: 5px;
+    font-feature-settings: "cpsp"on;
+    color: #005677;
+}
+#dos {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 700;
+}
+li span {
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 2.5px;
+}
+#uluno {
+    position: absolute;
+    left: 24px;
+    top: 434px;       
+}
+#divdos {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 548px;
+    background: #c4c4c4;
+}
+#formacion {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 538px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    letter-spacing: 5px;
+    font-feature-settings: "cpsp"on;
+    color: #005677;
+}
+#uldos {
+    position: absolute;
+    left: 10px;
+    top: 583px;       
+}
+#divtres {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 695px;
+    background: #c4c4c4;
+}
+#experiencia {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 685px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    letter-spacing: 5px;
+    font-feature-settings: "cpsp"on;
+    color: #005677;
+}
+#ultres {
+    position: absolute;
+    left: 10px;
+    top: 750px;       
+}
+#divcua {
+    position: absolute;
+    width: 1440px;
+    height: 35px;
+    left: 0px;
+    top: 996px;
+    background-color: #005677;
+}
+footer h2 {
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 988px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #ffffff;
+}
+#insta {
+    background-image: url(../img/ico_instagram.png);
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 772px;
+    top: 1002.5px;
+}
+#linked {
+    background-image: url(../img/ico_linkedin.png);
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 818px;
+    top: 1002.5px;
+}
+#salto {
+    margin-left: 77px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+}
